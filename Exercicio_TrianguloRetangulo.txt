@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+   @guilherme.rpinto
 
 public class TrianguloRetangulo {
     public static void main(String[] args) {

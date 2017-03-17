@@ -1,5 +1,10 @@
-public class Atividade1 {
+import java.util.Scanner;
 
+   @guilherme.rpinto
+
+public class AutonomiaDoCarro {
+
+    
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
         
