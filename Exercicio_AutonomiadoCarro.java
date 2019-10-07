@@ -16,7 +16,7 @@ public class AutonomiaDoCarro {
         
         double resultado = km/litros;
         
-        System.out.println("Est· fazendo: " + resultado + "km/l");
+        System.out.println("Est√° fazendo: " + resultado + "km/l");
         
     }
     
